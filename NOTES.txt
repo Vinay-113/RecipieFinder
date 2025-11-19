@@ -1,0 +1,3 @@
+Add your Spoonacular API key to .env
+If you hit rate limits, reduce search frequency or use another key.
+For production, consider caching or server-side proxy to hide API key.
